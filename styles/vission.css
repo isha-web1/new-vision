@@ -130,4 +130,52 @@
     #FFFFFF;
     padding-bottom: 25px;
 }
+/* watch section end */
+/* footer section start */
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 30vh;
+    padding: 100px, 0;
+    background: #151414;
+    margin-top: 130px;
+    color: #F8F8F8;
+   
+}
+.footer-title{
+    width: 470px;
+    
+}
+.footer-title h2{
+    font-weight: 700px;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.footer-title p{
+    line-height: 30px;
+    padding-bottom: 25px;
+}
+.footer-title ul{
+    list-style: none;
+}
+.footer-title ul li{
+    padding-bottom: 20px;
+}
+.logo-icon{
+    padding-top: 10px;
+}
+.footer-contact{
+    width: 600px;
+    font-size: 30px;
+    padding: 30px;
+}
+.footer-contact input{
+    padding: 20 130 20 15;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.footer-contact input::placeholder{
+    text-align: left;
+}
 
