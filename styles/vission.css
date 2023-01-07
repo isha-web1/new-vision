@@ -77,4 +77,28 @@
     line-height: 35px;
 
 }
+/* failure section end */
+/* planing section start */
+.plan-title{
+    font-weight: 700px;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+}
+.plan-subtitle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.plan-description{
+    text-align: center;
+}
+.plan-description h2{
+    padding: 15px;
+}
+.plan-description p{
+    font-weight: 500px;
+    font-size: 25px;
+    color: #737272;
+}
 
