@@ -101,4 +101,33 @@
     font-size: 25px;
     color: #737272;
 }
+/* plan section end */
+/* watch section start */
+
+.watch{
+    background-image: url(../images/watch.png), url(../images/gradient1.png);
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    min-height: 30vh;
+    width: 75%;
+    margin: auto;
+    position: relative;
+    border-radius: 10px;
+    background-blend-mode: multiply, screen;
+
+}
+.watch-title{
+    top: 40px;
+    left: 50px;
+    position: absolute;
+}
+.watch-title h3{
+    width: 460px;
+    font-weight: 700px;
+    font-size: 40px;
+    color: 
+    #FFFFFF;
+    padding-bottom: 25px;
+}
 
